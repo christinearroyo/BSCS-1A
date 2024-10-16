@@ -1,0 +1,15 @@
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\bin\Debug\net8.0\BSCS-1A.exe
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\bin\Debug\net8.0\BSCS-1A.deps.json
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\bin\Debug\net8.0\BSCS-1A.runtimeconfig.json
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\bin\Debug\net8.0\BSCS-1A.dll
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\bin\Debug\net8.0\BSCS-1A.pdb
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\BSCS-1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\BSCS-1A.AssemblyInfoInputs.cache
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\BSCS-1A.AssemblyInfo.cs
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\BSCS-1A.csproj.CoreCompileInputs.cache
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\BSCS-1A.sourcelink.json
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\BSCS-1A.dll
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\refint\BSCS-1A.dll
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\BSCS-1A.pdb
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\BSCS-1A.genruntimeconfig.cache
+C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\ref\BSCS-1A.dll
