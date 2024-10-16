@@ -13,3 +13,18 @@ C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\refint\BSCS-1A
 C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\BSCS-1A.pdb
 C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\BSCS-1A.genruntimeconfig.cache
 C:\Users\chrst\OneDrive\Documents\GitHub\BSCS-1A\obj\Debug\net8.0\ref\BSCS-1A.dll
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\bin\Debug\net8.0\BSCS-1A.exe
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\bin\Debug\net8.0\BSCS-1A.deps.json
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\bin\Debug\net8.0\BSCS-1A.runtimeconfig.json
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\bin\Debug\net8.0\BSCS-1A.dll
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\bin\Debug\net8.0\BSCS-1A.pdb
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\obj\Debug\net8.0\BSCS-1A.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\obj\Debug\net8.0\BSCS-1A.AssemblyInfoInputs.cache
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\obj\Debug\net8.0\BSCS-1A.AssemblyInfo.cs
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\obj\Debug\net8.0\BSCS-1A.csproj.CoreCompileInputs.cache
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\obj\Debug\net8.0\BSCS-1A.sourcelink.json
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\obj\Debug\net8.0\BSCS-1A.dll
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\obj\Debug\net8.0\refint\BSCS-1A.dll
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\obj\Debug\net8.0\BSCS-1A.pdb
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\obj\Debug\net8.0\BSCS-1A.genruntimeconfig.cache
+c:\Users\LERON FAMILY\Desktop\code\BSCS-1A\obj\Debug\net8.0\ref\BSCS-1A.dll
