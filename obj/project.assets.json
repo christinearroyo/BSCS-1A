@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LERON FAMILY\\.nuget\\packages\\": {}
+    "C:\\Users\\chrst\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LERON FAMILY\\Desktop\\code\\BSCS-1A\\BSCS-1A.csproj",
+      "projectUniqueName": "C:\\Users\\chrst\\OneDrive\\Documents\\GitHub\\BSCS-1A\\BSCS-1A.csproj",
       "projectName": "BSCS-1A",
-      "projectPath": "C:\\Users\\LERON FAMILY\\Desktop\\code\\BSCS-1A\\BSCS-1A.csproj",
-      "packagesPath": "C:\\Users\\LERON FAMILY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LERON FAMILY\\Desktop\\code\\BSCS-1A\\obj\\",
+      "projectPath": "C:\\Users\\chrst\\OneDrive\\Documents\\GitHub\\BSCS-1A\\BSCS-1A.csproj",
+      "packagesPath": "C:\\Users\\chrst\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chrst\\OneDrive\\Documents\\GitHub\\BSCS-1A\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\LERON FAMILY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chrst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
