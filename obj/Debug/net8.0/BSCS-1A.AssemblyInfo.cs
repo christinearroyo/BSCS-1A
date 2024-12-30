@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BSCS-1A")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af98d835c396e079bce614f0a0e1ea865265997d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83134cb655423c81846ccb3ecd0ca4807ed42db1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BSCS-1A")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BSCS-1A")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
