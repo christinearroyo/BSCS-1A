@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\chrst\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\LERON FAMILY\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chrst\\OneDrive\\Documents\\GitHub\\BSCS-1A\\BSCS-1A.csproj",
+<<<<<<< Updated upstream
+      "projectUniqueName": "c:\\Users\\LERON FAMILY\\Desktop\\code\\BSCS-1A\\BSCS-1A\\BSCS-1A.csproj",
       "projectName": "BSCS-1A",
-      "projectPath": "C:\\Users\\chrst\\OneDrive\\Documents\\GitHub\\BSCS-1A\\BSCS-1A.csproj",
-      "packagesPath": "C:\\Users\\chrst\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chrst\\OneDrive\\Documents\\GitHub\\BSCS-1A\\obj\\",
+      "projectPath": "c:\\Users\\LERON FAMILY\\Desktop\\code\\BSCS-1A\\BSCS-1A\\BSCS-1A.csproj",
+      "packagesPath": "C:\\Users\\LERON FAMILY\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\LERON FAMILY\\Desktop\\code\\BSCS-1A\\BSCS-1A\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\LERON FAMILY\\Desktop\\code\\BSCS-1A\\BSCS-1A\\BSCS-1A.csproj",
+      "projectName": "BSCS-1A",
+      "projectPath": "C:\\Users\\LERON FAMILY\\Desktop\\code\\BSCS-1A\\BSCS-1A\\BSCS-1A.csproj",
+      "packagesPath": "C:\\Users\\LERON FAMILY\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LERON FAMILY\\Desktop\\code\\BSCS-1A\\BSCS-1A\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\chrst\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\LERON FAMILY\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -72,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
